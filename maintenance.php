@@ -3,7 +3,8 @@
 <html class="cspio">
 <head>
 	<!---
-	Welcome to our free WordPress Maintenance Mode template by http://seedprod.com Get your free download at https://www.seedprod.com/how-to-create-custom-maintenance-mode-page-wordpress/
+	Welcome to our free WordPress Maintenance Mode template by http://wpcliffsnotes.com Get your free download at
+						Youtube Tutorial: https://youtu.be/ioPnU4MMjGk
 	This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 	http://creativecommons.org/licenses/by-nc-nd/4.0/
 
@@ -16,8 +17,9 @@
 	5. Set your *Twitter Profile* URL on line 314 using the href attribute.
 	6. Set your *Email* on line 315 using the href attribute.
 	7. Set your background image on line 64, see file README.mb for additional background images.
-	8. Set your MailChimp email post URL on line 301 See video: https://youtu.be/YUdP1qfMot8
-	9. FTP to your Website.
+	8. FTP to your Website.
+	9. Tutorial on how to set this up.
+
 	-->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
