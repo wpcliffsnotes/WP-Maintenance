@@ -4,7 +4,7 @@
 <head>
 	<!---
 	Welcome to our free WordPress Maintenance Mode template by http://wpcliffsnotes.com Get your free download at
-						Youtube Tutorial: https://youtu.be/ioPnU4MMjGk
+	Youtube Tutorial: https://youtu.be/ioPnU4MMjGk
 	This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 	http://creativecommons.org/licenses/by-nc-nd/4.0/
 
